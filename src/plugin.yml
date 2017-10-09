@@ -1,0 +1,10 @@
+name: NPCPlugin
+main: me.Ronin1024.NPCPlugin.NPCPlugin
+version: 1.2
+
+commands:
+ summonnpc:
+ npcstart:
+ npcanim:
+ npcstatus:
+ npcmove:
